@@ -3,7 +3,7 @@ Detailed Description
 
 🏠 Smart Home Automation System (ESP8266) — Version 1
 
-🚀 A complete end-to-end IoT smart home solution built from scratch, including hardware design, embedded firmware, and a responsive web interface.
+🚀 A complete end-to-end IoT smart home solution including hardware design, embedded firmware, and a responsive web interface.
 
 📌 Project Overview
 This system is based on the ESP8266 microcontroller and enables remote and automatic control of home appliances through a web dashboard. It integrates real-time scheduling and synchronization features for improved automation and reliability.
