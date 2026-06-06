@@ -19,3 +19,6 @@ This system is based on the ESP8266 microcontroller and enables remote and autom
 📡 Flexible connectivity: Access Point (AP) mode + WiFi client mode
 
 💡 This project demonstrates practical IoT implementation combining embedded systems, networking, and user interface design for smart home automation.
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a347de6-38c3-4344-bb7a-83ebb8fbbfdc" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b5f7bb0-fac9-4fc4-88b0-b9e90662d05f" />
+
